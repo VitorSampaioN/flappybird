@@ -10,4 +10,4 @@
 -- > ORGANIZAÇÃO DO CÓDIGO:
 
 -> Pasta "imgs": Nesta pasta está as imagens que foram utilizadas no jogo.
--> Arquivo main.py: Neste arquivo está todo o código do jogo. Ao executá-lo, o jogo abrirá e será possível jogar.
+-> Arquivo "main.py": Neste arquivo está todo o código do jogo. Ao executá-lo, o jogo abrirá e será possível jogar.
