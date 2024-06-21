@@ -1,13 +1,15 @@
-# Flappy Bird
+# Flappy Bird Clone
 
--- > CODE ORGANIZATION
+This project is an implementation of the Flappy Bird game using the Pygame library. The goal is to create a playable version of the famous game, where the player controls a bird that must avoid obstacles to score points.
 
--> "imgs" folder: The images used in game is inside this folder.
--> "main.py" file: All game code is inside this file. When executed, the game will open and going to be possible to play.
+## Features
 
+- **Bird Control**: The bird can be controlled by the player, who must press the space key to make it jump.
+- **Obstacles**: Pipes appear periodically as obstacles that the bird must avoid.
+- **Scoring**: The score increases as the bird passes through the obstacles.
+- **Graphics**: Images for the bird, pipes, ground, and background are loaded and displayed using Pygame.
 
- 
--- > ORGANIZAÇÃO DO CÓDIGO:
+## Requirements
 
--> Pasta "imgs": Nesta pasta está as imagens que foram utilizadas no jogo.
--> Arquivo "main.py": Neste arquivo está todo o código do jogo. Ao executá-lo, o jogo abrirá e será possível jogar.
+- Python 3
+- Pygame
